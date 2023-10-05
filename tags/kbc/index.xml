@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KBC on AdityaH</title>
+    <link>https://adityah.xyz/tags/kbc/</link>
+    <description>Recent content in KBC on AdityaH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Oct 2023 23:35:05 +0530</lastBuildDate><atom:link href="https://adityah.xyz/tags/kbc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monty Hall banega Crorepati - Part 1</title>
+      <link>https://adityah.xyz/posts/monty_banega_crorepati/</link>
+      <pubDate>Mon, 02 Oct 2023 23:35:05 +0530</pubDate>
+      
+      <guid>https://adityah.xyz/posts/monty_banega_crorepati/</guid>
+      <description>Application Of Probability Theory to a popular game show</description>
+    </item>
+    
+  </channel>
+</rss>

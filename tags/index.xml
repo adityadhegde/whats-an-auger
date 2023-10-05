@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on AdityaH</title>
+    <link>https://adityah.xyz/tags/</link>
+    <description>Recent content in Tags on AdityaH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Oct 2023 23:35:05 +0530</lastBuildDate><atom:link href="https://adityah.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KBC</title>
+      <link>https://adityah.xyz/tags/kbc/</link>
+      <pubDate>Mon, 02 Oct 2023 23:35:05 +0530</pubDate>
+      
+      <guid>https://adityah.xyz/tags/kbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability Theory</title>
+      <link>https://adityah.xyz/tags/probability-theory/</link>
+      <pubDate>Mon, 02 Oct 2023 23:35:05 +0530</pubDate>
+      
+      <guid>https://adityah.xyz/tags/probability-theory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
